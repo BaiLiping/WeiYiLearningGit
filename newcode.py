@@ -1,1 +1,1 @@
-test git from BLP
+test git from BLP  # add a comment
